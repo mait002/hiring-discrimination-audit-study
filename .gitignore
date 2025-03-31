@@ -1,0 +1,35 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache Files
+__pycache__/
+*.py[cod]
+
+# Virtual Environment folders
+venv/
+env/
+.hiringBias/  # Add your conda env name if you exported it
+
+# VSCode & IDE configs
+.vscode/
+.idea/
+
+# Data Files (optional, unless small and meant to be shared)
+*.csv
+*.xlsx
+*.sav
+*.dta
+*.tsv
+
+# Tableau Files (if large or private)
+*.twb
+*.twbx
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs or temporary files
+*.log
+*.tmp
+
