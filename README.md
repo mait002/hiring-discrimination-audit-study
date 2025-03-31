@@ -24,7 +24,9 @@ Applicants with Anglophone names were **~55% more likely** to receive callbacks 
 - `dashboard/` — Tableau dashboard screenshots
 
 ## 📈 Tableau Dashboard
-📎 [Link to interactive dashboard](#) *(optional if published on Tableau Public)*
+Explore the interactive version here:  
+📎 [![Tableau Dashboard](https://img.shields.io/badge/View-Dashboard-blue?logo=tableau)](https://public.tableau.com/shared/79WKDNZT5?:display_count=n&:origin=viz_share_link)
+
 
 ## 🔧 Requirements
 ```bash
